@@ -1071,6 +1071,11 @@ input:-webkit-autofill:focus {
     2.1 MAINMENU AREA
 -----------------------------------*/
 
+#nav{
+	position:relative;
+	right: 6%;
+}
+
 .header-top-area {
     left: 0;
     position: absolute;
